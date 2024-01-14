@@ -28,7 +28,7 @@ We welcome contributions from the community! If you would like to contribute to 
 
 ## Support
 
-For support and queries, please contact our team at [support@navyugblog.com](mailto:adityavishal903@gmail.com).
+For support and queries, please contact our team at [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com).
 
 ## Acknowledgments
 
