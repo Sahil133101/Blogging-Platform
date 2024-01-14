@@ -71,19 +71,18 @@ const Footer = () => {
             </li>
           </ul>
         </div>
+        {/* New section for Team Names */}
         <div className="col-span-5 md:col-span-4 lg:col-span-2">
-          <h3 className="text-dark-light font-bold md:text-lg">More</h3>
+        <div className="col-span-10 md:col-span-4 lg:col-span-4">
+          <h3 className="text-dark-light font-bold md:text-lg">Our Team</h3>
           <ul className="text-[#959EAD] text-sm mt-5 space-y-4 md:text-base">
-            <li>
-              <a href="/">Documentation</a>
-            </li>
-            <li>
-              <a href="/">License</a>
-            </li>
-            <li>
-              <a href="/">Changelog</a>
-            </li>
+          <li>Aditya Raj </li>
+            <li>Ankit Raj </li>
+            <li>Snehit Garg </li>
+            <li>Sahil Sharma </li>
           </ul>
+        </div>
+
         </div>
         <div className="col-span-10 md:order-first md:col-span-4 lg:col-span-2">
           <img
@@ -121,17 +120,7 @@ const Footer = () => {
               </a>
             </li>
           </ul>
-        </div>
-        {/* New section for Team Names */}
-        <div className="col-span-10 md:col-span-4 lg:col-span-4">
-          <h3 className="text-dark-light font-bold md:text-lg">Our Team</h3>
-          <ul className="text-[#959EAD] text-sm mt-5 space-y-4 md:text-base">
-            <li>Aditya Raj</li>
-            <li>Ankit Raj</li>
-            <li>Snehil Garg</li>
-            <li>Sahil Sharma</li>
-          </ul>
-        </div>
+        </div>     
         <div className="hidden md:flex flex-col items-center space-y-4 md:col-span-12 lg:col-span-10">
           <div className="bg-primary text-white p-3 rounded-full">
             <AiFillHeart className="w-7 h-auto" />
