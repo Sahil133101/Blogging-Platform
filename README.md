@@ -25,13 +25,10 @@ Welcome to the Navyug Blogging Platform! This platform is designed to empower us
 
 We welcome contributions from the community! If you would like to contribute to the Navyug Blogging Platform, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For support and queries, please contact our team at [support@navyugblog.com](mailto:support@navyugblog.com).
+For support and queries, please contact our team at [support@navyugblog.com](mailto:adityavishal903@gmail.com).
 
 ## Acknowledgments
 
