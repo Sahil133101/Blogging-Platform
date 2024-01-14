@@ -92,7 +92,7 @@ const Footer = () => {
             className="brightness-0 invert mx-auto md:mx-0"
           />
           <p className="text-sm text-dark-light text-center mt-4 md:text-left md:text-base lg:text-sm">
-            Build a modern and creative website with crealand
+            Build a modern and creative website with Navyug
           </p>
           <ul className="flex justify-center items-center mt-5 space-x-4 text-gray-300 md:justify-start">
             <li>
@@ -122,12 +122,22 @@ const Footer = () => {
             </li>
           </ul>
         </div>
+        {/* New section for Team Names */}
+        <div className="col-span-10 md:col-span-4 lg:col-span-4">
+          <h3 className="text-dark-light font-bold md:text-lg">Our Team</h3>
+          <ul className="text-[#959EAD] text-sm mt-5 space-y-4 md:text-base">
+            <li>Aditya Raj</li>
+            <li>Ankit Raj</li>
+            <li>Snehil Garg</li>
+            <li>Sahil Sharma</li>
+          </ul>
+        </div>
         <div className="hidden md:flex flex-col items-center space-y-4 md:col-span-12 lg:col-span-10">
           <div className="bg-primary text-white p-3 rounded-full">
             <AiFillHeart className="w-7 h-auto" />
           </div>
           <p className="font-bold italic text-dark-light">
-            Copyright © 2023. Crafted with love.
+            Copyright © 2024;. Crafted with Navyug.
           </p>
         </div>
       </footer>
